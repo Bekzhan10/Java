@@ -1,3 +1,5 @@
+package HW_9;
+
 public class Temperature {
     private double value;
     private char scale;

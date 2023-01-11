@@ -1,3 +1,5 @@
+package HW_9;
+
 public class Triangle {
     int firstSide;
     int secondSide;

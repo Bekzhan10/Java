@@ -1,3 +1,5 @@
+package HW_8;
+
 public class Average {
     int first;
     int sec;

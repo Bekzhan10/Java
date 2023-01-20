@@ -75,6 +75,7 @@ public class Main {
         System.out.println(map2);
 
         System.out.println(mapContains(map2,"Turar"));
+
     }
 
     public static void whatDay(Weekday day) {

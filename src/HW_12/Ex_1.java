@@ -115,7 +115,7 @@ public class Ex_1 {
         for (String s : word1) {
             one.append(s);
         }
-        for (String s : word2) {
+         for (String s : word2) {
             two.append(s);
         }
         return one.toString().equals(two.toString());
